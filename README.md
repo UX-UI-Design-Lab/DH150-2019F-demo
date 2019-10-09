@@ -6,3 +6,5 @@ for class demonstration
 
 ### smaller
 
+![screenshot]
+(https://ux-ui-design-lab.github.io/DH150-2019F-demo/screenshot.png)
