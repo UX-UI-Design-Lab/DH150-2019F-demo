@@ -8,5 +8,8 @@ for class demonstration
 
 ![hey](https://ux-ui-design-lab.github.io/DH150-2019F-demo/screenshot.png)
 
-### testing the filename with space + special char
+### testing the filename with space by %20
 ![hey](https://ux-ui-design-lab.github.io/DH150-2019F-demo/screenshot%2520SPACE.png)
+
+### testing the filename with space " "
+![hey](https://ux-ui-design-lab.github.io/DH150-2019F-demo/screenshot SPACE.png)
