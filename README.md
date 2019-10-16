@@ -12,4 +12,4 @@ for class demonstration
 ![hey](https://ux-ui-design-lab.github.io/DH150-2019F-demo/screenshot%2520SPACE.png)
 
 ### testing the filename with space " "
-![hey](https://ux-ui-design-lab.github.io/DH150-2019F-demo/screenshot SPACE.png)
+![hey](https://ux-ui-design-lab.github.io/DH150-2019F-demo/screenshot%20SPACE.png)
