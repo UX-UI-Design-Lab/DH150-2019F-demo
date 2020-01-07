@@ -1,39 +1,40 @@
 #1: Visibility of system status
 
-Battery Status, Network Status
+Example: Battery Status, Network Status
 
 #2: Match between system and the real world
 
-Left-Right sign
+Example: Left-Right sign, 
 
 #3: User control and freedom
 
-Example
+Example: No Exit
 
 #4: Consistency and standards
 
-Example
+Example: button label (login-), function of icon (go back to home), location of the icon/menu/layout 
 
 #5: Error prevention
 
-Example
+Example: booking system that prevents the previous date to the departure,warning messsage about duplicated filename, password setting
 
 #6: Recognition rather than recall
 
-Example
+Example: 404 error (code errors), autofill
 
 #7: Flexibility and efficiency of use
 
-Example
+Example: short cut, copy+paste
 
 #8: Aesthetic and minimalist design
 
-Example
+Example: bad background design
 
 #9: Help users recognize, diagnose, and recover from errors
 
-Example
+Example: required field*, internet connection warning, (404 error)
 
 #10: Help and documentation
 
-Example
+Example: help page, faq form, search, find out more -- chat/online help, provide tour/training.
+
