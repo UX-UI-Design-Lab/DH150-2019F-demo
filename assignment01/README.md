@@ -8,7 +8,7 @@ Example: Left-Right sign, bad elevator buttons
 
 https://www2.isye.gatech.edu/~jjb/misc/elevators/elevators.html
 
-!(bad elevator button)[https://www2.isye.gatech.edu/~jjb/misc/elevators/images/south-parking-piedmont-hospital.jpg]
+![bad elevator button](https://www2.isye.gatech.edu/~jjb/misc/elevators/images/south-parking-piedmont-hospital.jpg)
 
 #3: User control and freedom
 
