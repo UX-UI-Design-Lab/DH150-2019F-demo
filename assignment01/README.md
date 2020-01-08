@@ -18,7 +18,7 @@ Brief evaluation of the web/app - overall impression and ux issues you found tha
 
 Example: Battery Status, Network Status
 
-Severity rating (1) for example
+Severity rating (1), for example
 
 ## 2: Match between system and the real world
 
