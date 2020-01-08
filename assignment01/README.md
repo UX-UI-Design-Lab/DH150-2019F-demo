@@ -7,6 +7,7 @@ Project description -- 3-5 sentences.
 ## 1: Visibility of system status
 
 Example: Battery Status, Network Status
+Severity rating (1) for example
 
 ## 2: Match between system and the real world
 
