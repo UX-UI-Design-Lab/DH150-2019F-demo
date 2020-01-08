@@ -2,11 +2,22 @@
 
 ### DH150 Assignment01: Heuristic Evaluation by YOURNAME
 
-Project description -- 3-5 sentences.
+Motivation + description of the community of your choice -- 3-5 sentences.
+
+The information about the web/app/project. (desirably with visuals)
+
+------- REPEAT -------
+
+### Information about the web/app for the first heuristic evaluation
+
+[Weblink](http://THE_LINK_HERE.html)
+
+Brief evaluation of the web/app - overall impression and ux issues you found that you can imporve.
 
 ## 1: Visibility of system status
 
 Example: Battery Status, Network Status
+
 Severity rating (1) for example
 
 ## 2: Match between system and the real world
@@ -49,3 +60,5 @@ Example: required field*, internet connection warning, (404 error)
 
 Example: help page, faq form, search, find out more -- chat/online help, provide tour/training.
 
+
+------- REPEAT -------
