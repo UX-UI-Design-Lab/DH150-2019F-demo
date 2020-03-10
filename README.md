@@ -22,3 +22,6 @@ make a difference!
      <td> <img src="https://selinapan.github.io//DH150/Images/Jessica%20Chen%20Empathy%20Map.png" height="300px"> </td>
   </tr>
 </table>
+
+
+https://selinapan.github.io//DH150/Images/Jessica%20Chen%20Empathy%20Map.png
