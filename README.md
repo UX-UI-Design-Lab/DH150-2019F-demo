@@ -6,7 +6,7 @@ for class demonstration
 
 ### smaller
 
-<img src="./npr-screenshot.png">
+<img src="./npr-screenshot.png" width="50%">
 
 ![npr](npr-screenshot.png)
 
