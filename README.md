@@ -6,6 +6,12 @@ for class demonstration
 
 ### smaller
 
+[goto NPR](http://npr.org)
+
+http://npr.org
+
+<a href="http://npr.org" target="_blank"> NPR </a>
+
 <img src="./npr-screenshot.png" width="50%">
 
 ![npr](npr-screenshot.png)
