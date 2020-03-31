@@ -10,7 +10,7 @@ for class demonstration
 
 http://npr.org
 
-<a href="http://npr.org" target="_blank"> NPR </a>
+<a href="http://npr.org" target="_new"> NPR </a>
 
 <img src="./npr-screenshot.png" width="50%">
 
