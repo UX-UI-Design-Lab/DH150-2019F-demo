@@ -6,7 +6,7 @@ for class demonstration
 
 ### smaller
 
-![something)(https://images.unsplash.com/photo-1585511582346-9aeff1bef830?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80)
+![something](https://images.unsplash.com/photo-1585511582346-9aeff1bef830?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80)
 
 https://images.unsplash.com/photo-1585511582346-9aeff1bef830?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80
 
