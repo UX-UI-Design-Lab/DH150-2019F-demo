@@ -59,7 +59,9 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ### Pitch video: 
 
+<figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1100_oxdSNOcbC9UbVxdDWwxX5dNOZ7x8/view" width="640" height="480"></iframe>
+</figure>
 
 ### Conclusion: 
 While timeframe for projects are finite, ideas for implementations can be infinite. Sometimes it is more important to prioritize the most important features and design those well, rather than designing for every-single-feature and creating a “cool” but unusable app. With deadlines approaching and ideas still flowing, I realized I had to focus on the quality of the most important components of the product before letting myself get carried away with “cool” features I wanted to add. This allowed me to stay focused on creating a solid and quality prototype that could be improved and added onto overtime.
