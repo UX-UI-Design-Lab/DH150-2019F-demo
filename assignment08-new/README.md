@@ -4,7 +4,7 @@
 ### Introduction 
 In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings. 
 
-https://archive.org/details/MagisterLudi-TheGlassBeadGame-HermanHesse/mode/2up
+[read more...](https://archive.org/details/MagisterLudi-TheGlassBeadGame-HermanHesse/mode/2up)
 
 
 ### Design statement: 
