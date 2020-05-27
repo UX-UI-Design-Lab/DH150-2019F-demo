@@ -33,7 +33,7 @@ The purpose of my low-fidelity prototypes is to check and test the functionality
 This is a high-fidelity test for the UCLA Economics Website. I created this prototype by using Figma. The purpose of this test is to evaluate the effectiveness and usability of performing three tasks. These three tasks were inspired by three personas from a prior assignment: Justin, Betty, and Peter. The key tasks are improved search results, ability to add workshop event to a calendar, and access to an international resource section. [... by Christine Yu >> ](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment07/README.md)
 
 ### Optional evaluation and revision history: 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded) [... Accessibility color-contrast test](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
+Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded) [... Accessibility color-contrast test >> ](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
 
 
 ### Pitch video: 
