@@ -19,6 +19,8 @@ The purpose of a usability test (UT) is to improve the usability of the product 
 ### User research:
 To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry. Due to current circumstances, this session had to be conducted remotely over Zoom. [... by Chu Yin Wen >> ](https://github.com/yinyinwen/DH150-chuyin/blob/master/Assignments/assignment4.md)
 
+![persona: Mai Nguyen](https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/Persona%201.png)
+
 ### UX storytelling:
 The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it.
 Creating personas and their story lets you and your team share the same image of the users.
