@@ -1,28 +1,34 @@
-# Project title
-## your name
+# The Glass Bead Game: Undefined
+## Sookie Cho
 
 ### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings.
 
 ### Design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+College radio stations are community focused in their design. Their members are composed entirely of students, faculty, and community figures. Local artists and stories are promoted. They are not held accountable to the demands of advertisers. College radio stations are a platform for the people, no strings attached. However, Radio is an aging medium. Terrestrial Radio stations and conventional radio programming may be diminishing in relevance. 
 
-### Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+### Competitor analysis: Heuristic Evaluation 
+The National Weather Service website works in conjunction with the National Oceanic and Atmospheric Administration. They provide local and national weather forecasts along with detailed maps that contain other meteorological information on maps. They have past weather, safety, and educational material on their website. Overall: The National Weather Service website is not an easily navigable website. However, it is very easy to get lost in the web page. Since the website works with two corporations you never know where a link will take you. This does not make the user experience smooth or enjoyable. The designs change with almost every page change and those pages are also overwhelming with different information and designs. This website needs major improvements.
 
-### User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+### Competitor analysis: Usability testinig
+The purpose of a usability test (UT) is to improve the usability of the product by observing and testing the users and gathering their feedback. UT helps to identify specific problems from a heuristic evaluation and tests whether the product is effective, efficient, and satisfactory to the users. Compared to a heuristic evaluation or other inspection methods, UT is the best way to understand the participant's behaviors and thoughts while being able to observe them navigate the product.
 
-### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+### User research:
+To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry. Due to current circumstances, this session had to be conducted remotely over Zoom.
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### UX storytelling:
+The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it.
+Creating personas and their story lets you and your team share the same image of the users.
+Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users. 
 
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+### Wireframe and graphic design element variation
+The purpose of my low-fidelity prototypes is to check and test the functionality of my new designs. It allows me to translate my high-level design concepts into physical and tangible entities that other people can interact with in order to identify flaws in functionality. My low-fidelity prototype is used to test how the features I proposed flow within a user's online shopping experience, and focuses on its practicality rather than visual appearance. 
+
+### Low-fidelity prototype (wireflow)
+The purpose of my low-fidelity prototypes is to check and test the functionality of my new designs. It allows me to translate my high-level design concepts into physical and tangible entities that other people can interact with in order to identify flaws in functionality. My low-fidelity prototype is used to test how the features I proposed flow within a user's online shopping experience, and focuses on its practicality rather than visual appearance.
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+This is a high-fidelity test for the UCLA Economics Website. I created this prototype by using Figma. The purpose of this test is to evaluate the effectiveness and usability of performing three tasks. These three tasks were inspired by three personas from a prior assignment: Justin, Betty, and Peter. The key tasks are improved search results, ability to add workshop event to a calendar, and access to an international resource section.
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
@@ -30,3 +36,5 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video [update the video after recording your presentation]
 
 ### conclusion: what you learned throughout the process
+While timeframe for projects are finite, ideas for implementations can be infinite. Sometimes it is more important to prioritize the most important features and design those well, rather than designing for every-single-feature and creating a “cool” but unusable app. With deadlines approaching and ideas still flowing, I realized I had to focus on the quality of the most important components of the product before letting myself get carried away with “cool” features I wanted to add. This allowed me to stay focused on creating a solid and quality prototype that could be improved and added onto overtime.
+
