@@ -16,8 +16,12 @@ The National Weather Service website works in conjunction with the National Ocea
 ### Competitor analysis: Usability testinig
 The purpose of a usability test (UT) is to improve the usability of the product by observing and testing the users and gathering their feedback. UT helps to identify specific problems from a heuristic evaluation and tests whether the product is effective, efficient, and satisfactory to the users. Compared to a heuristic evaluation or other inspection methods, UT is the best way to understand the participant's behaviors and thoughts while being able to observe them navigate the product. [... by Lillian Nguyen >> ](https://github.com/lilliannguyen97/DH150/blob/master/Assignments/A02/README.md)
 
+---
+
 ### User research:
 To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry. Due to current circumstances, this session had to be conducted remotely over Zoom. [... by Chu Yin Wen >> ](https://github.com/yinyinwen/DH150-chuyin/blob/master/Assignments/assignment4.md)
+
+---
 
 ![persona: Mai Nguyen](https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/Persona%201.png)
 
