@@ -9,11 +9,12 @@ In this project, I will propose a novel ux design of the mobile app to enhance t
 ### Design statement: 
 College radio stations are community focused in their design. Their members are composed entirely of students, faculty, and community figures. Local artists and stories are promoted. They are not held accountable to the demands of advertisers. College radio stations are a platform for the people, no strings attached. However, Radio is an aging medium. Terrestrial Radio stations and conventional radio programming may be diminishing in relevance. [ ... by Jack Schaeffer >> ](https://github.com/jschaefer619/DH150-Assignment02/blob/master/README.md)
 
+---
 
 <table>
   <tr>
-    <td><img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08/StringApp.png" height="300px"></td>
-    <td><img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08/StringApp.png" height="300px"></td>
+    <td><img src="https://raw.githubusercontent.com/emdipressi/DH150-DiPressi/master/Weather.png" height="300px"></td>
+    <td><img src="https://raw.githubusercontent.com/lilliannguyen97/DH150/master/HSJ-screenshot.png" height="300px"></td>
   </tr>
 </table>
 
@@ -44,6 +45,8 @@ Storytelling also helps filter out any biases you or your interviewees had and f
 ### Wireframe and graphic design element variation:
 The purpose of my low-fidelity prototypes is to check and test the functionality of my new designs. It allows me to translate my high-level design concepts into physical and tangible entities that other people can interact with in order to identify flaws in functionality. My low-fidelity prototype is used to test how the features I proposed flow within a user's online shopping experience, and focuses on its practicality rather than visual appearance. 
 
+---
+
 ### Low-fidelity prototype (wireflow):
 The purpose of my low-fidelity prototypes is to check and test the functionality of my new designs. It allows me to translate my high-level design concepts into physical and tangible entities that other people can interact with in order to identify flaws in functionality. My low-fidelity prototype is used to test how the features I proposed flow within a user's online shopping experience, and focuses on its practicality rather than visual appearance. [... by Claire Guo >> ](https://github.com/claireg22/DH150-ASSIGNMENT06)
 
@@ -56,6 +59,8 @@ This is a high-fidelity test for the UCLA Economics Website. I created this prot
 
 ### Optional evaluation and revision history: 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded) [... Accessibility color-contrast test >> ](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
+
+---
 
 ### Pitch video: 
 
