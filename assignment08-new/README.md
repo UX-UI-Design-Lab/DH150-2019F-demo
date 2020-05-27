@@ -1,7 +1,7 @@
 # The Glass Bead Game: Undefined 
 ## Sookie Cho
 
-![glass beads image](https://images.unsplash.com/photo-1568288124606-f92f26a4502a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
+![glass beads](https://ux-ui-design-lab.github.io/DH150-demo/assignment08-new/glassbeads.jpg)
 
 ### Introduction 
 In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings. 
