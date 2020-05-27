@@ -15,6 +15,9 @@ College radio stations are community focused in their design. Their members are 
 
 
 ### Competitor analysis [assignment01 & 02]:
+
+![weather,com screen image](https://raw.githubusercontent.com/emdipressi/DH150-DiPressi/master/Weather.png)
+
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 ### User research [contextual inquiry, assignment04]:
