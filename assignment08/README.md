@@ -30,6 +30,7 @@ The purpose of UX storytelling is to shift your perspective to the user's perspe
 Creating personas and their story lets you and your team share the same image of the users.
 Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users. [... by Yoshino Goto >> ](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment05.md)
 
+--- 
 ### Wireframe and graphic design element variation:
 The purpose of my low-fidelity prototypes is to check and test the functionality of my new designs. It allows me to translate my high-level design concepts into physical and tangible entities that other people can interact with in order to identify flaws in functionality. My low-fidelity prototype is used to test how the features I proposed flow within a user's online shopping experience, and focuses on its practicality rather than visual appearance. 
 
