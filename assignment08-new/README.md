@@ -3,7 +3,14 @@
 
 ![glass beads](https://ux-ui-design-lab.github.io/DH150-demo/assignment08-new/glassbeads.jpg)
 
-<img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08-new/glassbeads.jpg" height="100px"> 
+
+
+<table>
+  <tr>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08-new/glassbeads.jpg" height="100px">  </td>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08-new/glassbeads.jpg" height="100px"> </td>
+  </tr>
+</table>
 
 ### Introduction 
 In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings. 
