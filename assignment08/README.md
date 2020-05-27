@@ -52,7 +52,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video: 
 
 <figure class="video_containier">
-  <iframe src="https://www.youtube.com/embed/JMSPiH-EuG0" frameborder="0" allowfullscreen="true"></iframe>
+  <iframe src="https://www.youtube.com/embed/JMSPiH-EuG0" frameborder="0" width="100%" allowfullscreen="true"></iframe>
 </figure>
 
 ### Conclusion: 
