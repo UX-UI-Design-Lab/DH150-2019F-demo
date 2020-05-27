@@ -1,7 +1,7 @@
 # The Glass Bead Game: Undefined
 ## Sookie Cho
 
-![GlassBeads](https://images.unsplash.com/photo-1568288124606-f92f26a4502a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)
+<img src="https://images.unsplash.com/photo-1568288124606-f92f26a4502a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"> 
 
 ### Introduction: 
 In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings. [... read more >> ](https://archive.org/details/MagisterLudi-TheGlassBeadGame-HermanHesse/mode/2up)
@@ -51,9 +51,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ### Pitch video: 
 
-<figure class="video_containier">
-  <iframe src="https://drive.google.com/file/d/1100_oxdSNOcbC9UbVxdDWwxX5dNOZ7x8/view" width="640" height="480"></iframe>
-</figure>
+
 
 ### Conclusion: 
 While timeframe for projects are finite, ideas for implementations can be infinite. Sometimes it is more important to prioritize the most important features and design those well, rather than designing for every-single-feature and creating a “cool” but unusable app. With deadlines approaching and ideas still flowing, I realized I had to focus on the quality of the most important components of the product before letting myself get carried away with “cool” features I wanted to add. This allowed me to stay focused on creating a solid and quality prototype that could be improved and added onto overtime.
