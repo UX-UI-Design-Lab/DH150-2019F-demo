@@ -49,9 +49,6 @@ The purpose of my low-fidelity prototypes is to check and test the functionality
 
 ---
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fs76Cc2VcqgLz5acemkYFE6%2FQuizShow-Demo%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
-
-
 ### High-fidelity prototype: 
 This is a high-fidelity test for the UCLA Economics Website. I created this prototype by using Figma. The purpose of this test is to evaluate the effectiveness and usability of performing three tasks. These three tasks were inspired by three personas from a prior assignment: Justin, Betty, and Peter. The key tasks are improved search results, ability to add workshop event to a calendar, and access to an international resource section. [... by Christine Yu >> ](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment07/README.md)
 
