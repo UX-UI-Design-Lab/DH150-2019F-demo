@@ -8,7 +8,9 @@ In this project, I will propose a novel ux design of the mobile app to enhance t
 
 
 ### Design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+
+College radio stations are community focused in their design. Their members are composed entirely of students, faculty, and community figures. Local artists and stories are promoted. They are not held accountable to the demands of advertisers. College radio stations are a platform for the people, no strings attached. However, Radio is an aging medium. Terrestrial Radio stations and conventional radio programming may be diminishing in relevance. [... by Jack Schaeffer >> ](https://github.com/jschaefer619/DH150-Assignment02/blob/master/README.md)
+
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
