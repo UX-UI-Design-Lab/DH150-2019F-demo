@@ -23,6 +23,8 @@ To gain a better sense of how I could create a website that is useful to differe
 
 ---
 
+![Persona: Mai N's story](https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/Persona%201.png)
+
 ### UX storytelling:
 The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it.
 Creating personas and their story lets you and your team share the same image of the users.
