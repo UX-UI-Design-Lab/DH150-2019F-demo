@@ -9,6 +9,14 @@ In this project, I will propose a novel ux design of the mobile app to enhance t
 ### Design statement: 
 College radio stations are community focused in their design. Their members are composed entirely of students, faculty, and community figures. Local artists and stories are promoted. They are not held accountable to the demands of advertisers. College radio stations are a platform for the people, no strings attached. However, Radio is an aging medium. Terrestrial Radio stations and conventional radio programming may be diminishing in relevance. [ ... by Jack Schaeffer >> ](https://github.com/jschaefer619/DH150-Assignment02/blob/master/README.md)
 
+
+<table>
+  <tr>
+    <td><img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08/StringApp.png" height="300px"></td>
+    <td><img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08/StringApp.png" height="300px"></td>
+  </tr>
+</table>
+
 ### Competitor analysis: Heuristic Evaluation 
 The National Weather Service website works in conjunction with the National Oceanic and Atmospheric Administration. They provide local and national weather forecasts along with detailed maps that contain other meteorological information on maps. They have past weather, safety, and educational material on their website. Overall: The National Weather Service website is not an easily navigable website. However, it is very easy to get lost in the web page. Since the website works with two corporations you never know where a link will take you. This does not make the user experience smooth or enjoyable. The designs change with almost every page change and those pages are also overwhelming with different information and designs. This website needs major improvements.[ ... by Emily DiPressi >> ](https://github.com/emdipressi/DH150-DiPressi)
 
