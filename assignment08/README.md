@@ -68,7 +68,10 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
  <iframe src="https://player.vimeo.com/video/425708491" width="640" height="300" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
-[![https://player.vimeo.com/video/425708491](https://player.vimeo.com/video/425708491)](https://player.vimeo.com/video/425708491)
+
+<figure class="video_container">
+  <iframe src="https://player.vimeo.com/video/425708491/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
 ### Conclusion: 
