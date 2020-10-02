@@ -64,13 +64,9 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ### Pitch video: 
 
-<figure class="video_container">
- <iframe src="https://player.vimeo.com/video/425708491" width="640" height="300" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</figure>
-
 
 <figure class="video_container">
-  <iframe src="https://player.vimeo.com/video/425708491/preview" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://player.vimeo.com/video/425708491" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
