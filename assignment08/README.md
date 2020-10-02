@@ -37,7 +37,7 @@ To gain a better sense of how I could create a website that is useful to differe
 ### UX storytelling:
 The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it.
 Creating personas and their story lets you and your team share the same image of the users.
-Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users. [... by Yoshino Goto >> ](https://github.com/yoshinogoto/DH150-YoshinoGoto/blob/master/Assignment05.md)
+Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users. [... by Yoshino Goto >> ](https://github.com/yoshinogoto/DH150-YoshinoGoto/tree/master/Assignment08)
 
 --- 
 <img src="https://ux-ui-design-lab.github.io/DH150-demo/assignment08/StringApp.png" height="300px">
@@ -65,7 +65,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video: 
 
 <figure class="video_container">
- <iframe src="https://drive.google.com/file/d/1sG5gTT0AwkQQOtp0JAB-MOUT2tj378hJ/preview" width="640" height="480"></iframe>
+ <iframe src="https://player.vimeo.com/video/425708491" width="640" height="300" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </figure>
 
 ### Conclusion: 
