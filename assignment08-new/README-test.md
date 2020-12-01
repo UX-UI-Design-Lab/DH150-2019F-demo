@@ -1,6 +1,7 @@
-# Project title + Your name
+# Glassbeads Game 
+#### DH150: UX+UI, by Hermann Hesse
 
-### Introduction: a brief information about the project. 
+### Introduction
 
 In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings.
 
@@ -11,8 +12,16 @@ With the COVID-19 pandemic, we have entered a period of time when people are fac
 <a href="https://github.com/jhuang00/DH150-JH" target="_blank"> by Jane Huang </a>
 
 
-### Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+### Competitor analysis [Heuristic Evaluation]:
+
+Designing a new and accessible website for libraries in the midst of a pandemic is significant in continuing to help patrons. Many are sheltering at home and institutions, such as libraries, remain closed to the public and;therefore, are forced to redesign their services. With services going online, the digital divide is apparent. It makes it more difficult when a library's websites are difficult to navigate and overwhelming to use. Focusing on the two major library systems in Los Angeles, I will be evaulating both Los Angeles Public Library and LA County Library's website in order to design a more simple and easy to use website for middle-age patron who indentify as female.
+
+
+
+
+
+
+
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 ### UX storytelling [persona+scenario, assignment05]
