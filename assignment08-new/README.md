@@ -2,11 +2,14 @@
 
 ### Introduction: a brief information about the project. 
 
-What is the project about? The motivation of the project and possible contribution.
+In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings.
 
 ### Clear design statement: 
 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+With the COVID-19 pandemic, we have entered a period of time when people are facing instability and uncertainty. As Los Angeles continues to be in a state of lockdown, more people are experiencing negative emotions such as anxiety and fear. Although middle-aged women are not usually under the spotlight of the social realm of discussion, they are a group that cannot be neglected. Focusing on the happiness of middle-aged women, I hope to, in this project, explore a way of providing an outlet of the real world. By improving the user experience, it can make sure these users can find the process of using the product enjoyable and that the overall experience brings happiness. [by Jane Huang >>](https://github.com/jhuang00/DH150-JH)
+
+<a href="https://github.com/jhuang00/DH150-JH" target="_blank"> by Jane Huang </a>
+
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
