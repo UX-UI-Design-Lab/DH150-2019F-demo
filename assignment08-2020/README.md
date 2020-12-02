@@ -47,9 +47,9 @@ Design Features I would suggest are:
 
 ![persona](https://github.com/stephchang/DH150-Stephanie/blob/main/MaryPersona.png)
 
-<img alt="persona" src="https://github.com/stephchang/DH150-Stephanie/blob/main/MaryPersona.png" width="75%">
+<img alt="persona" src="https://github.com/stephchang/DH150-Stephanie/raw/main/MaryPersona.png" width="75%">
 
-<img alt="journey map" src="https://github.com/stephchang/DH150-Stephanie/blob/main/MaryJourney.png" width="75%">
+<img alt="journey map" src="https://github.com/stephchang/DH150-Stephanie/raw/main/MaryJourney.png" width="75%">
 
 
 ###### Mary is a mother of two and wants to do the most to make her kids happy and healthy. However, she has never learned how to cook so she only knows how to make 5 dishes, which her kids get tired of and aren’t the healthiest. She tries to buy lots of ingredients to attempt to add to the dishes she knows how to make, but it always fails so some ingredients go bad in the fridge. Thus, she wants to know how to learn how to cook and make new dishes using the ingredients she buys. She also wants to make sure the dishes are suitable for kids.
