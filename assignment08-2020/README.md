@@ -17,11 +17,14 @@ LA county library | Los Angeles County Library
 --- | ---
 ![npr](../npr-screenshot.png) | ![npr](../npr-screenshot.png)
 
-<img src="../npr-screenshot.png" height="300px"> 
 
 <table>
-  
+  <tr>
+    <td> <img src="../npr-screenshot.png" height="100px">  </td>
+     <td> <img src="../npr-screenshot.png" height="100px">  </td>
+  </tr>
 </table>
+
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
