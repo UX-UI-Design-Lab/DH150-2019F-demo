@@ -15,7 +15,7 @@ Designing a new and accessible website for libraries in the midst of a pandemic 
 
 LA county library | Los Angeles County Library
 --- | ---
-![npr](npr-screenshot.png) | Image2
+![npr](../npr-screenshot.png) | ![npr](../npr-screenshot.png)
 
 <table>
   
