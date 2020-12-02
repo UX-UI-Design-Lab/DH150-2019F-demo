@@ -25,6 +25,10 @@ LA county library | Los Angeles County Library
   </tr>
 </table>
 
+### Competitor analysis: Usability Testing
+The purpose of usability testing (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. It is necessary to test whether a product is effective, efficient, and satisfactory for users. The UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control. [>> Sine Polcharoen](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment2)
+
+<iframe src="https://drive.google.com/file/d/1CsEw-kOSkRd8WgQfCtnYe3IyIFX3RVCZ/preview" width="640" height="480"></iframe>
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
