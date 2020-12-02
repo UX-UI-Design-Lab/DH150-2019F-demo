@@ -45,6 +45,8 @@ Design Features I would suggest are:
 - Grocery list: Allows users to add missing ingredients into a list (not present, would be a useful implementation)
 - Filter: Obvious filter that has clear filter categories
 
+![persona](https://github.com/stephchang/DH150-Stephanie/blob/main/MaryPersona.png)
+
 <img alt="persona" src="https://github.com/stephchang/DH150-Stephanie/blob/main/MaryPersona.png" width="75%">
 
 <img alt="journey map" src="https://github.com/stephchang/DH150-Stephanie/blob/main/MaryJourney.png" width="75%">
@@ -54,7 +56,7 @@ Design Features I would suggest are:
 
 ###### To cook breakfast for her kids, Mary turns on her personal laptop and goes onto the SuperCook site. She opens her fridge and looks at all the ingredients she has. She has chicken breasts, american cheese, onions, green beans, spinach, ground beef, flour, sugar, potato, vegetable oil, and olive oil. She presses on the categories, which expand and shows ingredients. She proceeds and marks all the ingredients she has in her fridge using the checkbox beside each of them. As she does so, the page refreshes to show the recipe of dishes she can make. The page shows that she can make 900+ dishes with her 11 ingredients. Mary sees that there are so many options and is intimidated. She notices that there is a filter on the page, and clicks on age range to narrow down her searches. She is able to select toddler & preschool to identify what age range her kids are in. This way, she is able to make sure these dishes are suitable for her kids. Once she selects the filters, the page refreshes, and narrows down the recipes to displays ones that are safe for her kids. She clicks on the picture of the first one, potato pancakes, which opens a new tab that brings her to the recipe page. She brings out all the ingredients that are required for the recipe and follows the recipe to make the dish. Her dish is a success and she wakes her kids up to eat breakfast. Her kids are delighted to see that it is a new dish and love it. Mary is happy and satisfied that her kids seem to like the new dish she has made.
 
-See all the personas and scenario developed by [Stephanie Chang](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2005)
+See all the personas and scenarios developed by [Stephanie Chang](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2005)
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
