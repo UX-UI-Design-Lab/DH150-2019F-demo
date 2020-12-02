@@ -49,8 +49,6 @@ Design Features I would suggest are:
 - Grocery list: Allows users to add missing ingredients into a list (not present, would be a useful implementation)
 - Filter: Obvious filter that has clear filter categories
 
-![persona](https://github.com/stephchang/DH150-Stephanie/blob/main/MaryPersona.png)
-
 <img alt="persona" src="https://github.com/stephchang/DH150-Stephanie/raw/main/MaryPersona.png" width="75%">
 
 <img alt="journey map" src="https://github.com/stephchang/DH150-Stephanie/raw/main/MaryJourney.png" width="75%">
@@ -99,7 +97,7 @@ See a full evaluation/revision history here [>> by Yoshino Goto](https://github.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sf4nDr6Tt-o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Check a full project documentatiion [by Yinyin Wen](https://yinyinwen.github.io/DH150-chuyin/)
+Check a full project documentation [by Yinyin Wen](https://yinyinwen.github.io/DH150-chuyin/)
 
 ### Conclusion
 
