@@ -58,13 +58,16 @@ Design Features I would suggest are:
 
 See all the personas and scenarios developed by [Stephanie Chang](https://github.com/stephchang/DH150-Stephanie/tree/main/Assignment%2005)
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### Low-fidelity prototype
+The purpose of creating low fidelity prototypes is to test the flow of a website and how intuitive the interactions are. Using low fidelity prototypes for the designer is to create a flow that does not have any distracting features, that can be altered easily and gives the look and feel of a website. This prototype was designed keeping in mind middle aged women and what would assist in their interaction with the website. I kept in mind average technology experience/knowledge, accessibility of visuals and low cognitive stress. During the user's experience they should have the ability to navigate the site to any extent they want, from searching a specific genre to being directed to a specific show. [by Ainsleigh Douglas](https://github.com/ainsleighdouglas/DH-150-Assignment-06)
 
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+### Wireframe and graphic design element variation
+[Here](https://www.sketch.com/s/c16a4788-9f6d-4825-bc30-e6dfe46c02d9/a/5abLrx/play) is a version of the prototype who reflects both scenarios and the different tasks. 
+
+![prototype screenshot](https://camo.githubusercontent.com/b0a189154aa2773d698897cb79053a22f104fdf56ae743e4a1e90963aa6ec381/68747470733a2f2f692e6962622e636f2f734b665653486e2f5363656e6172696f312d4f766572616c6c2e706e67)
+
+### High-fidelity prototype
 
 Jessika Wang's awesome prototype:
 
