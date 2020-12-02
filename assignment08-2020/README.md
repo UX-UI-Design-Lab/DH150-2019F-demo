@@ -17,7 +17,7 @@ LA county library | Los Angeles County Library
 --- | ---
 ![npr](../npr-screenshot.png) | ![npr](../npr-screenshot.png)
 
-<img src="../npr-screenshot.png"> 
+<img src="../npr-screenshot.png" height="300px"> 
 
 <table>
   
