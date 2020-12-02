@@ -15,15 +15,15 @@ Designing a new and accessible website for libraries in the midst of a pandemic 
 
 LA county library | Los Angeles public Library
 --- | ---
-![LA county Library](https://github.com/amorales187/DH250-AnitaMorales/blob/main/LaCounty_home.png) | ![Los Angeles public Library](https://github.com/amorales187/DH250-AnitaMorales/blob/main/LA_home.png)
+![LA county Library](https://github.com/amorales187/DH250-AnitaMorales/raw/main/LaCounty_home.png) | ![Los Angeles public Library](https://github.com/amorales187/DH250-AnitaMorales/raw/main/LA_home.png)
 
 
-<table>
+<!-- table>
   <tr>
     <td> <img src="../npr-screenshot.png" height="100px">  </td>
      <td> <img src="../npr-screenshot.png" height="100px">  </td>
   </tr>
-</table>
+</table -->
 
 ### Competitor analysis: Usability Testing
 The purpose of usability testing (UT) is to identify issues with the product design and improve the overall usability and satisfaction of a product. In contrast to heuristic evaluation, UT provides a more accurate inspection of how a random participant would interact with a product. It is necessary to test whether a product is effective, efficient, and satisfactory for users. The UT process can also inform potential users about the unreleased project, as well as help identify problems in the interface early, eliminating possible future spending and damage control. [>> Sine Polcharoen](https://github.com/spolcharoen/DH150-PawanPolcharoen/tree/main/Assignment2)
