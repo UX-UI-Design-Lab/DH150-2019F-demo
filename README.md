@@ -14,9 +14,9 @@ According to the United Nations, the number of seniors (65+) is expected to doub
 
 I will conduct a heuristic evaluation of two websites with goals similar to the ones of this project. The first, TimeSlips, allows seniors to write creative stories. The second, The Life Writer, provides a way for seniors to write a memoir book. The evaluation will discuss each site's adherence to the [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/) and provide [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) with consideration for the target users, senior citizens. [>> read more by Joy Hsieh](https://github.com/JoyHsieh/DH110-JoyHsieh-Assignment01/blob/main/README.md)
 
-![competitor01](https://raw.githubusercontent.com/JoyHsieh/DH110-JoyHsieh-Assignment01/main/timeslips-screenshot.png)
+<img src="https://raw.githubusercontent.com/JoyHsieh/DH110-JoyHsieh-Assignment01/main/timeslips-screenshot.png">
 
-![competitor02](https://raw.githubusercontent.com/JoyHsieh/DH110-JoyHsieh-Assignment01/main/TheLifeWriter-screenshot.png)
+<img src="https://raw.githubusercontent.com/JoyHsieh/DH110-JoyHsieh-Assignment01/main/TheLifeWriter-screenshot.png">
 
 
 
