@@ -5,6 +5,8 @@
 To bridge the generation gap between the youth and elders, I wanted to explore the idea of creating a service and digital space that will allow both age groups to communicate and form relationships through a video chat feature, not only to create companionship and mitigate stigmas that each group may have on the other, but also to encourage an efficient and accessible way for people to meet others with diverse backgrounds, perspectives, and abilities.
 [>> read more by Valentine Nguyen](https://github.com/valentinnguyen/DH110-Assignment-01)
 
+![dummy npr](npr-screenshot.png)
+
 ### Design statement 
 According to the United Nations, the number of seniors (65+) is expected to double to 1.5 billion by 2050 globally. Despite seniors being one of the fastest-growing and wealthiest demographics in wealthy countries, many digital products fail to meet senior accessibility needs and have made them feel excluded from an online world that is unfriendly to those with bad eyesight, declined dexterity, and unfamiliarity with the web. In particular, health is a major concern among seniors, and we should ensure that information is accessible to them. For this project, I hope to demonstrate how we can improve user (patient) experiences on websites with health, healthcare, and patient information so that seniors can maintain their well-being. [>> read more by Emily Dong](https://github.com/emilydong001/DH110/blob/main/Assignments/Assignment01.md)
 
