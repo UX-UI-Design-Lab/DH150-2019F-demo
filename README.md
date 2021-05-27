@@ -64,8 +64,7 @@ Follow-up Notification on application: If the company hasn't responded after a m
 
 ### High-fidelity prototype (functional/interactive prototype)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1)" width="640" height="480" src="https://framer.com/embed/mFGOtWpvZqcLXtC3WcLB/oA94VNbhN" allowfullscreen></iframe>
-
+<iframe width="640" height="480" src="https://framer.com/embed/mFGOtWpvZqcLXtC3WcLB/oA94VNbhN" allowfullscreen></iframe>
 
 ### evaluation and revision history 
 I conducted four usability tests among my classmates to detect major problems and objectively see, from a user’s perspective, how the product works. These usability tests were conducted over Zoom and with the permission of the participants, their screen and facial expressions were recorded. 
