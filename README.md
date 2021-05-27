@@ -81,6 +81,8 @@ See a full evaluation/revision history here [>> read more by Yoshino Goto](https
 
 ### Pitch video 
 
+<iframe src="https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/preview" width="640" height="480"></iframe>
+
 
 ### Conclusion 
 I learned several things during my DH 150 project on the UCLA Bruins app: [read more by Josh Mimura](https://joshmimura.github.io/DH-150-Assignments/final/)
