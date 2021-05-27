@@ -27,6 +27,7 @@ I will conduct a heuristic evaluation of two websites with goals similar to the 
 I set up the usability testing with an introduction, informed consent, background questions, pre-test questions, three tasks, post-test questionnaire, system usability scale (SUS), production satisfaction card, and personal questions. The entire process was conducted on Google Forms.
 The majority of the measurements used were ease-of-use, and the website’s functionality, i.e. how easy was each task for the user? was the user able to find exact information to make them feel confident about make decisions or knowing their rights as a senior employee in the workplace. [>> read more by Justin Grant](https://jgrant29.github.io/Justin/assignment02_Pilot_UT)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZGdmwvXz8NE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### User research [contextual inquiry]
 I used a direct interview and participatory observation methods. For the interview, I asked about my participant's tech use and motivation to share his story. For the participatory observation, I walked him through The Life Writer to gauge his tech fluency and see how the website could be made better for him.
