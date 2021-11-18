@@ -11,6 +11,15 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 ![MA early education site](https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png)
 
+<table>
+<tr>
+<td> <img src=”https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png” height=”300px”> </td>
+<td> <img src=”https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png” height=”300px”> </td>
+ <td> <img src=”https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png” height=”300px”> </td>
+</tr>
+</table>
+
+
 I conducted Heuristic evaluaution on the site. A leading predictor regarding academic success and achievement among students revolves around the degree to which parents are involved in their child's education. Yet, numerous digital platforms and webpages often showcase inaccessible content for marginalized groups of parents including non-English speakers, disabled persons, and individuals with age-related impairments/disabilities. With the goal of educational sites to allow educators and government officials the ability to connect with parents and relay crucial information regarding their child's education, website accessibility remains essential for educational equity. Consequently, this assignment delves deeper into the government-affiliated sites of the Early and Elementary plus Secondary education sites of Massachusetts and analyzes their accessibility and usability through a heuristic evaluation. [>> Read More by Karlina Ho](https://github.com/KarlinaHo/DH110-KarlinaHo/blob/main/DH110%20Assignment/Assignment01README.md)
 
 ### User research [contextual inquiry]:
