@@ -8,7 +8,8 @@ What is the project about? The motivation of the project and possible contributi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 ### Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+
+I conducted Heuristic evaluaution on the site []. A leading predictor regarding academic success and achievement among students revolves around the degree to which parents are involved in their child's education. Yet, numerous digital platforms and webpages often showcase inaccessible content for marginalized groups of parents including non-English speakers, disabled persons, and individuals with age-related impairments/disabilities. With the goal of educational sites to allow educators and government officials the ability to connect with parents and relay crucial information regarding their child's education, website accessibility remains essential for educational equity. Consequently, this assignment delves deeper into the government-affiliated sites of the Early and Elementary plus Secondary education sites of Massachusetts and analyzes their accessibility and usability through a heuristic evaluation. [Read More by Karlina Ho](https://github.com/KarlinaHo/DH110-KarlinaHo/blob/main/DH110%20Assignment/Assignment01README.md)
 
 ### User research [contextual inquiry]:
 Summary and link to your assignment folder
