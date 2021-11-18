@@ -12,10 +12,10 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ![MA early education site](https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png)
 
 <table>
-<tr>
-<td> <img src=”https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png” height=”300px”> </td>
-<td> <img src=”https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png” height=”300px”> </td>
- <td> <img src=”https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png” height=”300px”> </td>
+ <tr>
+ <td> <img src="https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png" height="300px"> </td>
+ <td> <img src="https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png" height="300px"> </td>
+ <td> <img src="https://raw.githubusercontent.com/KarlinaHo/DH110-KarlinaHo/main/DH110%20Assignment/MAEarlyEdu.png" height="300px"> </td>
 </tr>
 </table>
 
